@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pretext>
+    <article xml:id="worksheet">
+        <worksheet xmlns:xi="http://www.w3.org/2001/XInclude" margin="1in" bottom="1.25cm" xml:id="fake-wkst">
+            <title>Fake Worksheet: Simplfying Square Roots</title>
+            <introduction>
+                <p>
+                    This activity covers simplyfing square roots in preparation for using the quadratic formula later in the semester.  
+                </p>
+            </introduction>
+
+            <objectives>
+                
+                    <ol>
+                        <li>Plot points in the Cartesian Plane.</li>
+
+                        <li>Simplify square roots.</li>
+                    </ol>
+                
+            </objectives>
+            
+            <p>
+                When using square roots, we often want to provide exact answers. This will
+                require that we simplify square roots. We will not use decimal approximations
+                unless specifically instructed to do so.
+            </p>
+
+            <p>
+                Look for perfect square factors of the number under the radical.
+            </p>
+
+            <example>
+                Include one worked out example here. 
+            </example>
+        
+            <page>
+                <exercise workspace="1.5in">
+                    <statement>
+                        <p>
+                            Together: Simplify each of the following square roots, if possible. 
+                            <ol cols="4" marker="(a)">
+                                <li>
+                                        <m>
+                                            \sqrt{49}
+                                        </m>
+                                </li>
+                                <li>
+                                        <m>
+                                            \sqrt{12}
+                                        </m>
+                                </li>
+                                <li>
+                                        <m>
+                                            \sqrt{56}
+                                        </m>
+                                </li>
+                                <li>
+                                        <m>
+                                            \sqrt{\frac{1}{4}}
+                                        </m>
+                                </li>
+                            </ol>
+                        </p>
+                    </statement>
+                </exercise>
+        
+                <exercise workspace="4in">
+                    <statement>
+                        <p>
+                            Your Turn:
+                        </p>
+                    </statement>
+                </exercise>
+            </page>
+        
+        
+            <page>
+                <exercise workspace="2in">
+                    <statement>
+                        <p>
+                            Test Yourself
+                        </p>
+                    </statement>
+                </exercise>
+            </page>
+        </worksheet>
+        
+
+    </article>
+</pretext>
